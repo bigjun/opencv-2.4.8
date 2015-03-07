@@ -1,0 +1,10 @@
+./facedetector ./pictures/tongliya-1.jpeg; mv face-1.jpeg  ./pictures/face-1.jpeg
+./facedetector ./pictures/tongliya-2.jpeg; mv face-1.jpeg  ./pictures/face-2.jpeg
+./facedetector ./pictures/tongliya-3.jpeg; mv face-1.jpeg  ./pictures/face-3.jpeg
+./facedetector ./pictures/tongliya-4.jpeg; mv face-1.jpeg  ./pictures/face-4.jpeg
+./facedetector ./pictures/tongliya-5.jpeg; mv face-1.jpeg  ./pictures/face-5.jpeg
+./facedetector ./pictures/tongliya-6.jpeg; mv face-1.jpeg  ./pictures/face-6.jpeg
+./facedetector ./pictures/tongliya-7.jpeg; mv face-1.jpeg  ./pictures/face-7.jpeg
+./facedetector ./pictures/tongliya-8.jpeg; mv face-1.jpeg  ./pictures/face-8.jpeg
+./facedetector ./pictures/tongliya-9.jpeg; mv face-1.jpeg  ./pictures/face-9.jpeg
+./facedetector ./pictures/tongliya-10.jpeg; mv face-1.jpeg ./pictures/face-10.jpeg
